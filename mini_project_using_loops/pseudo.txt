@@ -1,0 +1,4 @@
+so we want the user to enter 
+add sleep hours 
+view average sleep 
+quit the app
